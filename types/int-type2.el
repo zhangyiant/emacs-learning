@@ -1,0 +1,8 @@
+(princ -100)
+(princ "\n")
+(princ 100)
+(princ "\n")
+(princ 100.)
+(princ "\n")
+(princ +100)
+(princ "\n")
